@@ -40,6 +40,37 @@ I, B, S imm的12位扩展到long，找个地方放下剩下的20位
 地方来了：同时来了两个新的指令`lui` & `auipc`
 ![alt text](image-7.png)
 
+### Corner case
+有符号扩展带过来的，1开头的符号扩展
+
+![alt text](image-8.png)
+
+用+1来避免这个问题
+
+![alt text](image-9.png)
+
+补充 `auipc` 指令
+![alt text](image-10.png)
+
+
+## J-Format Layout
+
+只有jal，因为jalr是I-type的
+
+![alt text](image-11.png)
+
+使用示例
+
+![alt text](image-12.png)
+
+jalr
+![alt text](image-13.png)
+
+使用示例
+
+![alt text](image-14.png)
+
+留一个[reference](https://www.cse.cuhk.edu.hk/~byu/CENG3420/2023Spring/doc/RV32-reference-1.pdf)
 
 
 
