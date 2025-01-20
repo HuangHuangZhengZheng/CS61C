@@ -1,0 +1,9 @@
+1. run [arglist]
+2. b [file:] function
+3. n
+4. s
+5. c
+6. p *expr*
+7. display var
+8. info locals
+9. q
