@@ -1,0 +1,3 @@
+make steganography
+make steganographymemcheck
+
