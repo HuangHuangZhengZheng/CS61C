@@ -42,10 +42,10 @@ main:
     la s1, source # s1 is source ptr
     la s2, dest # s2 is dest ptr
 loop:
-    slli s3, t0, 2 # 逻辑左移
-    add t1, s1, s3
-    lw t2, 0(t1)
-    beq t2, x0, exit
+    slli s3, t0, 2 # 逻辑左移 4 * t0 = 偏移量
+    add t1, s1, s3 # 计算
+    lw t2, 0(t1)   # 获得数值
+    beq t2, x0, exit 
     add a0, x0, t2
     addi sp, sp, -8
     sw t0, 0(sp)
