@@ -1,3 +1,9 @@
++++
+title = 'Lec9-RISC-V Decisions II'
+date = 2024-10-08T12:38:11+08:00
+draft = false
+categories = ['UCB-CS61C']
++++
 # RISC-V Decisions II
 
 ## Logical Instruction

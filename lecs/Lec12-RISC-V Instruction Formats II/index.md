@@ -1,3 +1,9 @@
++++
+title = 'Lec12-RISC-V Instruction Formats II'
+date = 2024-10-09T20:50:18+08:00
+draft = false
+categories = ['UCB-CS61C']
++++
 # RISC-V Instruction Formats II
 
 ## B-Format Layout

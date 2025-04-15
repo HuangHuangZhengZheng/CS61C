@@ -1,3 +1,9 @@
++++
+title = 'Lec14-Intro to Synchronous Digital Systems'
+date = 2025-01-22T20:07:46+08:00
+draft = false
+categories = ['UCB-CS61C']
++++
 # Lecture 14: Intro to Synchronous Digital Systems
 
 ## MOS Transistors

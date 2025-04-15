@@ -1,3 +1,9 @@
++++
+title = 'Lec10-RISC-V Procedures'
+date = 2024-10-08T22:58:52+08:00
+draft = false
+categories = ['UCB-CS61C']
++++
 # RISC-V Procedures
 
 调用函数的时候有一些无关的主进程变量的value需要存储，but where?

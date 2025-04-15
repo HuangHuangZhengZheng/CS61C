@@ -1,3 +1,9 @@
++++
+title = 'Lec5-C Memory Management'
+date = 2024-10-09T17:49:34+08:00
+draft = false
+categories = ['UCB-CS61C']
++++
 # C Memory Management
 ## malloc
 ```c

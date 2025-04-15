@@ -1,3 +1,9 @@
++++
+title = 'Lec8-RISC-V lw, sw, Decision I'
+date = 2024-10-08T12:37:38+08:00
+draft = false
+categories = ['UCB-CS61C']
++++
 # RISC-V lw, sw, Decision I
 ## Intro
 编译器会最小化寄存器使用

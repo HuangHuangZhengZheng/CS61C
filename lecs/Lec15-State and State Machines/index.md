@@ -1,3 +1,9 @@
++++
+title = 'Lec15-State and State Machines'
+date = 2025-01-22T20:41:04+08:00
+draft = false
+categories = ['UCB-CS61C']
++++
 # Lecture 15: State and State Machines
 https://www.learncs.site/resource/cs61c/lectures/lec15.pdf
 

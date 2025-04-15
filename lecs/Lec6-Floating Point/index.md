@@ -1,3 +1,9 @@
++++
+title = 'Lec6-Floating Point'
+date = 2024-10-09T17:49:34+08:00
+draft = false
+categories = ['UCB-CS61C']
++++
 # Floating Point
 ## Introduction
 note that binary can directly calculate

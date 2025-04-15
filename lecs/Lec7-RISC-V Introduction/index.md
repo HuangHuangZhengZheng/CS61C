@@ -1,3 +1,9 @@
++++
+title = 'Lec7-RISC-V Introduction'
+date = 2024-10-09T17:49:34+08:00
+draft = false
+categories = ['UCB-CS61C']
++++
 # RISC-V Introduction
 
 ## Instruction Set Architecture (ISA)

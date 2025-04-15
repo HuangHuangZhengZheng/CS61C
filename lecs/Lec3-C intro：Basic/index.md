@@ -1,3 +1,9 @@
++++
+title = 'Lec3-C intro：Basic'
+date = 2024-10-05T14:01:35+08:00
+draft = false
+categories = ['UCB-CS61C']
++++
 # C intro: Basic
 ## Compile vs Interpret
 Java 是先编译后解释器解释 C 是编译完成后直接运行，不需要解释器

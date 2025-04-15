@@ -1,3 +1,9 @@
++++
+title = 'Lec11-RISC-V Instruction Formats I'
+date = 2024-10-09T15:39:27+08:00
+draft = false
+categories = ['UCB-CS61C']
++++
 # RISC-V Instruction Formats I
 
 事实上已经来到下一个层级(二进制)了，但是看标题似乎还是RISC-V :thinking:

@@ -1,3 +1,9 @@
++++
+title = 'Lec4-C intro：Pointers, Arrays, Strings'
+date = 2024-10-05T14:02:49+08:00
+draft = false
+categories = ['UCB-CS61C']
++++
 # C intro: Pointers, Arrays, Strings
 
 ## Pointers
